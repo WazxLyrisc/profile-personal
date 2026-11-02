@@ -1,2 +1,3 @@
-# profile-personal
+# WazxLyrisc
 My Personal repository : WazxLyrisc
+I will change it in the future, maybe.....
